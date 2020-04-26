@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/juhguu/adonis-notify/issues"
   },
-  "homepage": "https://github.com/juhguu/adonis-notify#readme"
+  "homepage": "https://github.com/juhguu/adonis-notify#readme",
+  "dependencies": {
+    "firebase-admin": "^8.11.0",
+    "twilio": "^3.42.2"
+  }
 }
