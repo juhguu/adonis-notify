@@ -117,7 +117,7 @@ const payload = {
     foo: 'bar',
     bar: 'foo',
   },
-  subject: 'tem um paciente mudi querendo marcar uma consulta :)',
+  subject: 'Cool email subject ;)',
 };
 
 Email.send(payload);
