@@ -1,10 +1,11 @@
 {
   "name": "adonis-notify",
   "version": "0.0.1",
-  "description": "",
+  "description": "Send notifications in AdonisJS using Twilio, Firebase Cloud Message and native Adonis Email service provider.",
+  "keywords": ["adonisjs", "twilio", "firebase", "cloudmessaging", "email", "push-notifications", "notifications", "sms", "whatsapp"],
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npm run test"
   },
   "repository": {
     "type": "git",
