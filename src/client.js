@@ -79,7 +79,7 @@ class Client {
     this.twilio.messages
       .create({
         from: `whatsapp:${this.Config.twilio.whatsapp.number}`,
-        body: JSON.stringify(message),
+        body: message,
         to: `whatsapp:${number}`,
       })
       .then(notification => {

@@ -1,6 +1,6 @@
 {
   "name": "adonis-notify",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Send notifications in AdonisJS using Twilio, Firebase Cloud Message and native Adonis Email service provider.",
   "keywords": ["adonisjs", "twilio", "firebase", "cloudmessaging", "email", "push-notifications", "notifications", "sms", "whatsapp"],
   "main": "src/index.js",
