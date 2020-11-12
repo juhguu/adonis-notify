@@ -48,6 +48,7 @@ class Client {
       },
       android: {
         notification: {
+          priority: 'high',
           sound: 'default',
         },
       },
