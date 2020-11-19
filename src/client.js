@@ -40,6 +40,9 @@ class Client {
         body,
       },
       apns: {
+        headers: {
+          "apns-priority": "5"
+        },
         payload: {
           aps: {
             sound: 'default',
